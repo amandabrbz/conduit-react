@@ -1,0 +1,13 @@
+.taglist-item {
+  background: #818a91;
+  padding: 0.2rem 0.8rem;
+  margin: 0.2rem;
+  white-space: nowrap;
+  border-radius: 1rem;
+  font-size: 0.875rem;
+  box-sizing: border-box;
+}
+
+.taglist-item a {
+  color: #fff;
+}
